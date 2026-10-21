@@ -1,4 +1,4 @@
 # reto5
 reto 5 desarrollo agil y colaborativo
 
-Este es un cambio
+Cambio remoto para demostrar git pull.
